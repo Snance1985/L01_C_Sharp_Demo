@@ -1,0 +1,15 @@
+C:\Users\sean_\Desktop\csharp-course\l01-demo\bin\Debug\net6.0\l01-demo.exe
+C:\Users\sean_\Desktop\csharp-course\l01-demo\bin\Debug\net6.0\l01-demo.deps.json
+C:\Users\sean_\Desktop\csharp-course\l01-demo\bin\Debug\net6.0\l01-demo.runtimeconfig.json
+C:\Users\sean_\Desktop\csharp-course\l01-demo\bin\Debug\net6.0\l01-demo.dll
+C:\Users\sean_\Desktop\csharp-course\l01-demo\bin\Debug\net6.0\l01-demo.pdb
+C:\Users\sean_\Desktop\csharp-course\l01-demo\obj\Debug\net6.0\l01-demo.csproj.AssemblyReference.cache
+C:\Users\sean_\Desktop\csharp-course\l01-demo\obj\Debug\net6.0\l01-demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sean_\Desktop\csharp-course\l01-demo\obj\Debug\net6.0\l01-demo.AssemblyInfoInputs.cache
+C:\Users\sean_\Desktop\csharp-course\l01-demo\obj\Debug\net6.0\l01-demo.AssemblyInfo.cs
+C:\Users\sean_\Desktop\csharp-course\l01-demo\obj\Debug\net6.0\l01-demo.csproj.CoreCompileInputs.cache
+C:\Users\sean_\Desktop\csharp-course\l01-demo\obj\Debug\net6.0\l01-demo.dll
+C:\Users\sean_\Desktop\csharp-course\l01-demo\obj\Debug\net6.0\refint\l01-demo.dll
+C:\Users\sean_\Desktop\csharp-course\l01-demo\obj\Debug\net6.0\l01-demo.pdb
+C:\Users\sean_\Desktop\csharp-course\l01-demo\obj\Debug\net6.0\l01-demo.genruntimeconfig.cache
+C:\Users\sean_\Desktop\csharp-course\l01-demo\obj\Debug\net6.0\ref\l01-demo.dll
